@@ -1,1 +1,1 @@
-(Tutorial project from: https://www.jsmastery.pro/)
+(Original tutorial project from: https://www.jsmastery.pro/)
